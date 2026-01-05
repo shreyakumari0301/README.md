@@ -11,7 +11,8 @@
 
 ## 🚀 Selected Projects
 
-- **LLM Council** – Multi-LLM cross-verification system (Groq / Ollama)  
+- **LLM Council** – Multi-LLM cross-verification system (Groq / Ollama)
+- **Brain Tumor Detection** – CNN-based MRI image classification pipeline achieving 95% accuracy
 - **Ensemble Image Classification** – Handwritten digit recognition (ResNet, DenseNet, EfficientNet)  
 - **GuruSetu** – Full-stack React + FastAPI platform for academic workflows | [Demo](https://gurusetu.iitm.ac.in)  
 - **AI Virtual Learning Assistant** – GenAI agent for personalized student guidance  
